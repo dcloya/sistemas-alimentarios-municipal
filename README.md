@@ -118,9 +118,10 @@ Los insumos del Release son copias de la cosecha exacta usada; las fuentes vivas
 
 ## Cita sugerida
 
-> Contreras-Loya, D. (2026). *Sistemas alimentarios a nivel municipal en México:
-> datos y código reproducible* [repositorio de datos y código]. Círculo Vivo ·
-> Tecnológico de Monterrey. https://github.com/dcloya/sistemas-alimentarios-municipal
+> Contreras-Loya, D. y Campos Rivera, P. A. (2026). *Sistemas alimentarios a
+> nivel municipal en México: datos y código reproducible* [repositorio de datos
+> y código]. Círculo Vivo · Tecnológico de Monterrey.
+> https://github.com/dcloya/sistemas-alimentarios-municipal
 
 ---
 
