@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Si usas estos datos o código, cita el repositorio así:"
+title: "Sistemas alimentarios a nivel municipal en México: datos y código reproducible"
+type: dataset
+authors:
+  - family-names: "Contreras-Loya"
+    given-names: "David"
+    affiliation: "Círculo Vivo · Tecnológico de Monterrey"
+  - family-names: "Campos Rivera"
+    given-names: "Paola Abril"
+    affiliation: "Círculo Vivo · Tecnológico de Monterrey"
+year: 2026
+url: "https://github.com/dcloya/sistemas-alimentarios-municipal"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-13
