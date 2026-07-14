@@ -1,0 +1,12 @@
+Los datos derivados en output/ (muni_master.json, muni_bivariate.json,
+states_water.json, states_rwater.json) se distribuyen bajo la licencia
+Creative Commons Attribution 4.0 International (CC-BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Atribución sugerida:
+  Contreras-Loya, D. (2026). Sistemas alimentarios a nivel municipal en
+  México. Círculo Vivo · Tecnológico de Monterrey.
+  https://github.com/dcloya/sistemas-alimentarios-municipal
+
+Los insumos crudos (DENUE/INEGI, CONEVAL, CONAPO) y la geometría municipal
+(mxmaps/INEGI) conservan los términos de uso de sus productores originales.
